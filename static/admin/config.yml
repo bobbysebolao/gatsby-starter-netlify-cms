@@ -1,4 +1,6 @@
 publish_mode: editorial_workflow
+site_url: http://www.tinyhouseadvice.com
+display_url: http://www.tinyhouseadvice.com
 
 backend:
   name: git-gateway
