@@ -70,6 +70,11 @@ const Footer = class extends React.Component {
                         Contact
                       </Link>
                     </li>
+                    <li>
+                      <Link className="navbar-item" to="/privacy">
+                        Privacy Policy
+                      </Link>
+                    </li>
                   </ul>
                 </section>
               </div>
