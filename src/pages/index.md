@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Tiny House Advice
-image: /img/home-jumbotron.jpg
+image: /img/tiny-house-colorado-forest-1980x1112.jpg
 heading: Great coffee with a conscience
 subheading: City Dwellers | Nature Lovers | Tiny Housers
 mainpitch:
